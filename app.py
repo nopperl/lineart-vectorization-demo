@@ -25,6 +25,7 @@ interface = gr.Interface(
             ["examples/01.png", 0.1, 0.512],
             ["examples/02.png", 0.1, 0.512]
         ],
-        analytics_enabled=False
+        analytics_enabled=False,
+        cache_examples=False
     )
 interface.launch()
