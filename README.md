@@ -1,8 +1,8 @@
 ---
 title: Lineart Vectorizer
-emoji: 🌍
+emoji: 🖋
 colorFrom: blue
-colorTo: indigo
+colorTo: purple
 sdk: gradio
 sdk_version: 4.8.0
 app_file: app.py
